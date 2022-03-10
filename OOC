@@ -24,8 +24,8 @@ Only One Choice는 1인칭입니다.
 
 - 메인 화면 
 
-
+![main](https://user-images.githubusercontent.com/101155024/157774555-145fb4e5-3300-428f-9e45-a8ef4bc966b7.png)
 
 - 자막 화면 -
 
-
+![text](https://user-images.githubusercontent.com/101155024/157774558-a9036f69-ad22-4ea3-9fbb-e118a5a16c6a.png)
